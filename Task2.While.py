@@ -26,3 +26,6 @@ while outer_counter < 3:
         print("Внешний счетчик: ", outer_counter, "Внутренний счетчик: ", inner_counter )
         inner_counter += 1
     outer_counter += 1
+
+
+
